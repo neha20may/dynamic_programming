@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dynamic_programming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "coin_change::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coin_change-Debug-7ba59d4d7811a1e35d57.json",
+					"name" : "coin_change",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "edit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-edit-Debug-16c23b0cd40c78f40c2a.json",
+					"name" : "edit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "knapsack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-knapsack-Debug-8700dcf782782e861b93.json",
+					"name" : "knapsack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ksum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ksum-Debug-09e9f3557bc959fd9651.json",
+					"name" : "ksum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lccs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lccs-Debug-b93f696a8eb1d5f9fe30.json",
+					"name" : "lccs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lis-Debug-365894376fbb97dbc703.json",
+					"name" : "lis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lonP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lonP-Debug-1814c8e17a893e5f2c2e.json",
+					"name" : "lonP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix-Debug-f04ec3a6f23308f46fcf.json",
+					"name" : "matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rod::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rod-Debug-e6ad9f367923ed1de8a1.json",
+					"name" : "rod",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "short::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-short-Debug-5bf54b180321e752d898.json",
+					"name" : "short",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subset-Debug-d935eb4af199afcd76cc.json",
+					"name" : "subset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text_j::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text_j-Debug-3c79a37d96af38051b07.json",
+					"name" : "text_j",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/neha2/CLionProjects/dynamic_programming/cmake-build-debug",
+		"source" : "C:/Users/neha2/CLionProjects/dynamic_programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
